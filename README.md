@@ -5,6 +5,8 @@ I'm Kalpesh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshChopade&layout=compact)](https://github.com/KalpeshChopade)
 
+<a href=”https://www.linkedin.com/in/Kalpesh/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 <!--
 **KalpeshChopade/KalpeshChopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
