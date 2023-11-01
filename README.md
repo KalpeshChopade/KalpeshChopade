@@ -3,7 +3,7 @@ I'm Kalpesh
 
 [![Kalpesh’s github stats](https://github-readme-stats.vercel.app/api?username=KalpeshChopade)](https://github.com/KalpeshChopade)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshChopade&layout=compact)](https://github.com/KalpeshChopade)
 
 <!--
 **KalpeshChopade/KalpeshChopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
