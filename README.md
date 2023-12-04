@@ -21,9 +21,6 @@ COMMING SOON....
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshChopade&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Visits
-[![](https://visitcount.itsvg.in/api?id=kalpeshchopade&label=Developer&color=4&icon=4&pretty=false)](https://visitcount.itsvg.in)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
