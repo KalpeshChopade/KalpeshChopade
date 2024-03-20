@@ -15,9 +15,6 @@ Let's collaborate to build a future where Laravel excellence meets the needs of 
 ![](https://raw.githubusercontent.com/KalpeshChopade/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/KalpeshChopade/github-stats/master/generated/overview.svg#gh-light-mode-only)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KalpeshChopade&theme=dark&hide_border=true&include_all_commits=false)
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KalpeshChopade&theme=dark&hide_border=true)
 
 
