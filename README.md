@@ -24,6 +24,6 @@ Let's collaborate to build a future where Laravel excellence meets the needs of 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MSatyam-Mishra&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KalpeshChopade&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
